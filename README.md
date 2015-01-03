@@ -1,2 +1,0 @@
-collectiveresearch.github.io
-============================
